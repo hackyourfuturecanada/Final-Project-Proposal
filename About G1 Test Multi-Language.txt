@@ -1,0 +1,17 @@
+Project Name : G1 Test Multi Language
+
+Project Description: You can now take the 'G1 Driving Test' exam in several languages. Just tell the attendant you will take the Turkish, Arabic etc. exam before you take the exam. Example, You will see all the questions in both Turkish and English. You will be able to work with the G1 Test English system before taking the official exam.  The questions here are very similar to the actual exam questions. With the questions you will learn here with your language, it will be much easier to pass the real exam. Here you will be able to prepare for the exam in 4 main categories. Signs, Rules, Practice and Real Test. First time I will go on production with Turkish and English. I will add other languages later.
+
+Project Detail Requirements : 
+
+Website has 2 different interface
+ - User interface: User can see about G1 Driving Test detail information and Users can take exam with 4 different types.
+ - Admin interface: Admin can see detail questions, add, update and delete questions. Admin can enter website (Admin interface) with only admin username and password.
+
+Website has 4 different exams: Practice tests, Signs, Rules and Real Test.
+ - Practice Test: There are 5 different practical tests in this section. 40 questions will appear in each section. 20 of them are signs and 20 are rules. These questions will be confused. You can make up to 8 mistakes to skip this section.
+ - Signs: A total of 100 questions will appear in this section. All questions will appear as 'Signs'. All 100 questions will be shown to you one after the other.
+ - Rules: A total of 100 questions will appear in this section. All questions will appear as 'Rules'. All 100 questions will be shown to you one after the other.
+ - Real Test: In this section, 'signs' and 'rules' will take 2 different exams. You have the right to make up to 4 wrongs in each exam. You cannot pass the exam if you do 5 or more wrong in each exam.
+
+Project Technical Requirements: I will use HTML, CSS, React JS for Front-End, Node Js and MySQL for Back-End.
